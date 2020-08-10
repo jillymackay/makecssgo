@@ -11,3 +11,16 @@ Here is some plain text
 This should be a hey block type and look different. 
 
 ```
+
+```{block type = "hey"}
+
+This should be a hey block type and look different. 
+
+```
+
+
+```{block2, type = "hey"}
+
+This should be a hey block type and look different. 
+
+```
