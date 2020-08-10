@@ -1,0 +1,11 @@
+---
+title: "CSS Playground"
+author: "Jill R D MacKay"
+date: "`r Sys.Date()`"
+documentclass: book
+description: "I cannot make CSS go ever"
+---
+
+# CSS Playground {-}
+
+I needed a small repo to experiment with bookdown and CSS

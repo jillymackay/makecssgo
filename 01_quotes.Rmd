@@ -1,0 +1,13 @@
+# Quotes and Blocks
+
+Here is some plain text
+
+
+> Here is a default quote block
+
+
+```{block type = "hey"}
+
+This should be a hey block type and look different. 
+
+```
