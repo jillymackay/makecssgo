@@ -1,5 +1,5 @@
 # makecssgo
 
-I cannot make my css work with bookdown - so this is my reprex
+A playground to experiment with css
 
 [Book lives here](https://jillymackay.github.io/makecssgo/)

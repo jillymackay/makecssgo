@@ -12,15 +12,15 @@ This should be a hey block type and look different.
 
 ```
 
-```{block type = "hey"}
+```{block type = "hi"}
 
-This should be a hey block type and look different. 
+This should be a hi block type and look different. 
 
 ```
 
 
-```{block2, type = "hey"}
+```{block2, type = "ho"}
 
-This should be a hey block type and look different. 
+This should be a ho block type and look different. 
 
 ```
