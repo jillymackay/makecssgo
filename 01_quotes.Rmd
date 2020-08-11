@@ -6,21 +6,27 @@ Here is some plain text
 > Here is a default quote block
 
 
-```{block, type = "hey"}
+```{block, type = "los"}
+
+This should be a los block type and look different. 
+
+`example code`
+
+```
+
+```{block type = "translate"}
+
+This should be a translate block type and look different.
+
+`example code`
+
+```
+
+
+```{block2, type = "hey"}
 
 This should be a hey block type and look different. 
 
-```
-
-```{block type = "hi"}
-
-This should be a hi block type and look different. 
-
-```
-
-
-```{block2, type = "ho"}
-
-This should be a ho block type and look different. 
+`example code`
 
 ```
